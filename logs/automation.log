@@ -1,0 +1,9 @@
+2024-12-05 10:27:50 DEBUG TestNG:82 - suiteXmlPath: "C:\eclipse-workspace\OpencartV121\master.xml"
+2024-12-05 10:27:56 INFO  TC001_AccountRegistrationTest:24 - **** Starting TC001_AccountRegistrationTest ****
+2024-12-05 10:27:57 INFO  TC001_AccountRegistrationTest:32 - Clicked on MyAccount link 
+2024-12-05 10:27:57 INFO  TC001_AccountRegistrationTest:35 - Clicked on Register link
+2024-12-05 10:27:57 INFO  TC001_AccountRegistrationTest:39 - Providing customer details
+2024-12-05 10:27:59 INFO  TC001_AccountRegistrationTest:53 - Validating expected message...
+2024-12-05 10:27:59 INFO  TC001_AccountRegistrationTest:76 - **** Finished TC001_AccountRegistrationTest ****
+2024-12-05 10:28:02 INFO  TC002_LoginTest:16 - *** Starting TC002_LoginTest ***
+2024-12-05 10:28:04 INFO  TC002_LoginTest:48 - *** Finished TC002_LoginTest ***
